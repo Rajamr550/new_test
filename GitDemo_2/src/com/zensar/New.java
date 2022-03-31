@@ -6,6 +6,10 @@ public class New {
 	// TODO Auto-generated method stub
 	System.out.println("abcd");
 	System.out.println("efgh");
+	System.out.println("efgh");
+	System.out.println("efgh");
+	System.out.println("efgh");
+
 
     }
 
