@@ -10,6 +10,13 @@ public class abc {
 	System.out.println("dn");
 	System.out.println("dn");
 	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
+	System.out.println("dn");
     }
 
 }
